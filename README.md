@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@umohpet" target="blank"><img src="https://img.shields.io/twitter/follow/@umohpet?logo=twitter&style=for-the-badge" alt="@umohpet" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-n6kc.onrender.com/](https://my-portfolio-n6kc.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-n6kc.onrender.com/](https://clement-umoh.vercel.app/)
 
 - 💬 Ask me about **React**
 
